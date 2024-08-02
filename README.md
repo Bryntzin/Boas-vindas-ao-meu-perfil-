@@ -5,3 +5,5 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 Você pode entrar em contato comigo 📫 0000111160468xsp@al.educacao.gov.sp.br  
+
+![](https://images.app.goo.gl/MAUHeRJs4GMV67YeA)
