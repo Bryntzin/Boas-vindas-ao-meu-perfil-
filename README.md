@@ -1,9 +1,15 @@
-# Boas-vindas-ao-meu-perfil-
-Meu nome é Bryan Miguel  
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+### Boas vindas ao meu perfil :blue_heart
 
-Você pode entrar em contato comigo 📫 0000111160468xsp@al.educacao.gov.sp.br
-https://media.tenor.com/0k9J2KavW1cAAAAi/gojo-nah-id-win.gif
+Meu nome é Bryan Miguel 
 
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+0000111160468xsp@al.educacao.sp.gov.br
+
+bryanmiguelandrade.09@gmail.com
+
+![](https://media1.tenor.com/m/5gAIr5GSphAAAAAC/jujutsu-kaisen-aoi-todou.gif).
