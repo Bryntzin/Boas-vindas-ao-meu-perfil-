@@ -12,4 +12,6 @@ Meu nome é Bryan Miguel
 
 bryanmiguelandrade.09@gmail.com
 
-![](https://media1.tenor.com/m/5gAIr5GSphAAAAAC/jujutsu-kaisen-aoi-todou.gif).
+GOSTO DE BLUE LOCK :D
+
+![](https://media1.tenor.com/m/SwFr4e8NT4wAAAAC/kunigami-blue-lock.gif).
